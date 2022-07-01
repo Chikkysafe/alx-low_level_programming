@@ -1,1 +1,1 @@
-compiles a C file but does not link
+compiles a C file and creates an executable named cisfun
